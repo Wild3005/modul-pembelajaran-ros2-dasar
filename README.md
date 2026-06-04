@@ -8,5 +8,7 @@ didalam sudah tersedia installasi linux dan juga windows
 
 pada repo ini diharapkan menjadi workspace dari pembelajaran dan penugasannya.
 
+**depedensi tambahan lainnya ada pada materi didalamnya.**
+
 [1]: https://docs.ros.org/en/humble/Installation.html
 [2]: https://docs.ros.org/en/jazzy/Installation.html
